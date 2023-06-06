@@ -26,3 +26,10 @@ You can also browse my <a href="https://scholar.google.com/citations?user=jt-ePz
   [Paper](https://arxiv.org/pdf/2206.14418){: .btn}
   [Poster](/static/poster/gind_poster.png){: .btn}
   [Code](https://github.com/7qchen/GIND){: .btn}
+  
+- **Using ASR methods for OCR**  
+  Ashish Arora, Chun Chieh Chang, Babak Rekabdar, Daniel Povey, David Etter, **Desh Raj**, Hossein Hadian, Jan Trmal, Paola Garcia, Shinji Watanabe, Vimal Manohar, Yiwen Shao, Sanjeev Khudanpur.  
+  *International Conference on Document Analysis and Recognition* (ICDAR) 2019.  
+  [Preprint](https://www.danielpovey.com/files/2019_icdar_asr_for_ocr.pdf){: .btn}
+  [Paper](https://ieeexplore.ieee.org/document/8978150){: .btn}
+  [Code](https://github.com/kaldi-asr/kaldi/tree/master/egs/bentham){: .btn}
