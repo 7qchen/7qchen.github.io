@@ -26,5 +26,3 @@ You can also browse my <a href="https://scholar.google.com/citations?user=jt-ePz
   [Paper](https://arxiv.org/pdf/2206.14418){: .btn}
   [Poster](/static/poster/gind_poster.png){: .btn}
   [Code](https://github.com/7qchen/GIND){: .btn}
-  
-<br />  -->
