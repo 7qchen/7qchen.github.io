@@ -8,7 +8,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=jt-ePz
 
 **2023**
 
-- **Equilibrium Image Denoising With Implicit Differentiation**
+- **Equilibrium Image Denoising With Implicit Differentiation**  
   **Qi Chen**, Yifei Wang, Zhengyang Geng, Yisen Wang, Jiansheng Yang, Zhouchen Lin  
   *IEEE Transactions on Image Processing*  
   [Paper](https://ieeexplore.ieee.org/abstract/document/10070588/){: .btn}
