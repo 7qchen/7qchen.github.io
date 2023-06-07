@@ -24,5 +24,5 @@ You can also browse my <a href="https://scholar.google.com/citations?user=jt-ePz
   **Qi Chen**, YifeiWang, Yisen Wang, Jiansheng Yang, Zhouchen Lin  
   *International Conference on Machine Learning* (ICML) 2022  
   [Paper](https://arxiv.org/pdf/2206.14418){: .btn}
-  [Poster](/static/poster/gind_poster.png){: .btn}
+  [Poster](/static/poster/gind_poster.pdf){: .btn}
   [Code](https://github.com/7qchen/GIND){: .btn}
