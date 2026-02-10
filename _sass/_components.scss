@@ -169,6 +169,35 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Social (under profile image)
+
+.social.profile-social {
+  margin-top: 0.5rem;
+
+  .contact-icons {
+    font-size: 2em !important;
+
+    a {
+      img {
+        width: 1.6em !important;
+        height: 1.6em !important;
+        margin-bottom: 0 !important;
+      }
+
+      svg {
+        width: 1.8em !important;
+        height: 2em !important;
+        margin-bottom: 0 !important;
+
+        image {
+          width: 1.8em !important;
+          height: 1.8em !important;
+        }
+      }
+    }
+  }
+}
+
 // Social (bottom)
 
 .social {
