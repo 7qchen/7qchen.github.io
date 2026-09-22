@@ -17,7 +17,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a Member of Technical Staff at **Moonlake AI**, where I lead research on **3D coding agents**. My research focuses on agent evaluation, evaluation-driven agent design, and recursive self-improvement. I’m particularly interested in **coding as a universal interface** for extending agents’ capabilities from the digital world to the physical world.
+I am a Member of Technical Staff (Agent Research Lead) at [**Moonlake AI**](https://moonlakeai.com/), working with [Chris Manning](https://nlp.stanford.edu/~manning/) on **3D coding agents**. My research focuses on agent evaluation, evaluation-driven agent design, and recursive self-improvement. I’m particularly interested in **coding as a universal interface** for extending agents’ capabilities from the digital world to the physical world.
 
 Previously, I worked on coding agents at **AWS Agentic AI**. I received my Ph.D. in Applied Mathematics from [Peking University](https://www.pku.edu.cn/) (2023), advised by [Prof. Zhouchen Lin](https://zhouchenlin.github.io/), [Prof. Yisen Wang](https://yisenwang.github.io/), and [Prof. Jiansheng Yang](http://english.math.pku.edu.cn/peoplefaculty/64.html). My doctoral research focused on scaling **deep equilibrium models** to Transformer architectures and large-scale datasets.
 

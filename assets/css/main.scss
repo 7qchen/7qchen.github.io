@@ -38,6 +38,12 @@
   --global-theme-color: #2698ba;
   --global-hover-color: #2698ba;
 }
+
+// Keep emphasized link labels consistent with normal and hovered links.
+a strong {
+  color: inherit;
+}
+
 .social.profile-social {
   margin-top: 0.5rem;
   .contact-icons {
