@@ -12,33 +12,33 @@ Teaching assistant for the following courses at **Peking University**, School of
 ---
 
 **Image Processing**<br>
-*Spring 2021*<br>
+_Spring 2021_<br>
 Instructor: Prof. Heng Mao
 
 **Advanced Mathematics**<br>
-*Fall 2020*<br>
+_Fall 2020_<br>
 Instructor: Prof. Chunwei Song
 
 **Set Theory and Graph Theory**<br>
-*Spring 2020*<br>
+_Spring 2020_<br>
 Instructor: Prof. Jiansheng Yang
 
 **Design and Analysis of Algorithms**<br>
-*Fall 2019*<br>
+_Fall 2019_<br>
 Instructor: Prof. Jiansheng Yang
 
 **Advanced Mathematics II**<br>
-*Spring 2019*<br>
+_Spring 2019_<br>
 Instructor: Prof. Jinbiao Wu
 
 **Advanced Mathematics I**<br>
-*Fall 2018*<br>
+_Fall 2018_<br>
 Instructor: Prof. Jinbiao Wu
 
 **Optimization Methods in Machine Learning**<br>
-*Spring 2018*<br>
+_Spring 2018_<br>
 Instructor: Prof. Zhouchen Lin
 
 **Mathematical Statistics**<br>
-*Fall 2017*<br>
+_Fall 2017_<br>
 Instructor: Prof. Liping Liu

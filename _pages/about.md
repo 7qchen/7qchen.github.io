@@ -15,11 +15,10 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
 ---
 
-I am an Applied Scientist at **AWS AI Labs**, where I build **LLM-powered coding agents**. My research focuses on test-time scaling, benchmark design, and agentic reinforcement learning, with the goal of scaling agents toward fully autonomous, long-horizon software development tasks. I am particularly interested in **coding as a universal interface** -- a medium through which humans and agents can collaboratively shape the digital world.
+I am a Member of Technical Staff at **Moonlake AI**, where I lead research on **3D coding agents**. My research focuses on agent evaluation, evaluation-driven agent design, and recursive self-improvement. I’m particularly interested in **coding as a universal interface** for extending agents’ capabilities from the digital world to the physical world.
 
-Prior to Amazon, I received my Ph.D. in Applied Mathematics from [Peking University](https://www.pku.edu.cn/) (2023), advised by [Prof. Zhouchen Lin](https://zhouchenlin.github.io/), [Prof. Yisen Wang](https://yisenwang.github.io/), and [Prof. Jiansheng Yang](http://english.math.pku.edu.cn/peoplefaculty/64.html). My doctoral research focused on **deep equilibrium models** (infinitely deep neural networks) for context learning, with applications to computer vision and graph learning.
+Previously, I worked on coding agents at **AWS Agentic AI**. I received my Ph.D. in Applied Mathematics from [Peking University](https://www.pku.edu.cn/) (2023), advised by [Prof. Zhouchen Lin](https://zhouchenlin.github.io/), [Prof. Yisen Wang](https://yisenwang.github.io/), and [Prof. Jiansheng Yang](http://english.math.pku.edu.cn/peoplefaculty/64.html). My doctoral research focused on scaling **deep equilibrium models** to Transformer architectures and large-scale datasets.
 
-I’m open to collaboration! Feel free to email me if you’re interested in working together.
+Always happy to connect and explore opportunities to collaborate.
